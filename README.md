@@ -1,6 +1,6 @@
 # Visualizations
 
-Covid19DB.PBIX - COVID19 outbreak visulization.  Data from John's Hopkins (https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
+Covid19DB.PBIX - Power BI COVID19 outbreak Dashboard.  Data from John's Hopkins.
 
 Project Status Dashboard.JPG - Screenshot of Smartsheet dashboard created to managed Systems Implmentation project.  Proprietary information is removed.
 
